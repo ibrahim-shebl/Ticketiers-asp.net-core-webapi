@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "A1ZtRRvssZsSIAd/X1oLlnhwPJwV38fqgBCRd3xB+I8=",
+  "Source": "TicketiersWebApi",
+  "BasePath": "_content/TicketiersWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
